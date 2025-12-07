@@ -80,7 +80,7 @@ A line chart showing the rapid growth of titles after the year 2000.
 If you liked this project, feel free to ⭐ the repository!
 
 - **GitHub:** https://github.com/asthadixit1001-oss  
-- **LinkedIn:** Add your link here  
+- **LinkedIn:** linkedin.com/in/astha-dixit-27307633b  
 
 ---
 
